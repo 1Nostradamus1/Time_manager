@@ -69,7 +69,7 @@ namespace Time_manager
             if (h == 0 && m == 0 && s == 0)
             {
                 timer.Stop();
-                MessageBox.Show("Костяныч, завязывай работать");
+                MessageBox.Show("Костяныч, завязывай работать", "Таймер вышел", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
            
             

@@ -176,7 +176,7 @@
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label5.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.label5.Location = new System.Drawing.Point(117, 27);
+            this.label5.Location = new System.Drawing.Point(155, 27);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(63, 69);
             this.label5.TabIndex = 10;
@@ -188,7 +188,7 @@
             this.label6.BackColor = System.Drawing.Color.Transparent;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label6.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.label6.Location = new System.Drawing.Point(206, 27);
+            this.label6.Location = new System.Drawing.Point(280, 27);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(63, 69);
             this.label6.TabIndex = 11;
@@ -200,7 +200,7 @@
             this.label7.BackColor = System.Drawing.Color.Transparent;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label7.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.label7.Location = new System.Drawing.Point(79, 27);
+            this.label7.Location = new System.Drawing.Point(118, 27);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(47, 69);
             this.label7.TabIndex = 12;
@@ -212,7 +212,7 @@
             this.label8.BackColor = System.Drawing.Color.Transparent;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label8.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.label8.Location = new System.Drawing.Point(172, 27);
+            this.label8.Location = new System.Drawing.Point(245, 27);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(47, 69);
             this.label8.TabIndex = 13;
